@@ -1,0 +1,8 @@
+D:\Патерни\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\Патерни\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\Патерни\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\Патерни\lab2\bin\Debug\lab2.exe.config
+D:\Патерни\lab2\bin\Debug\lab2.exe
+D:\Патерни\lab2\bin\Debug\lab2.pdb
+D:\Патерни\lab2\obj\Debug\lab2.exe
+D:\Патерни\lab2\obj\Debug\lab2.pdb
